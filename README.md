@@ -1,3 +1,14 @@
+<h3 align="center">
+  <code>// SYSTEM SHELL: pbryanyanga@root ~ </code>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF66?style=flat-square&logo=terminal&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/ENV-PHP%20%2F%2F%20LARAVEL-777BB4?style=flat-square&logo=laravel&logoColor=white" alt="Environment" />
+</p>
+
+---
+
 ### // SYSTEM PROFILE & OBJECTIVES
 
 Versatile developer and Bachelor of Science in Information Technology (BSIT) student at **IETI College of Science and Technology, Marikina Campus**, specializing in backend web architecture, modern development frameworks, relational database management, and robust systems engineering. 
@@ -46,14 +57,6 @@ Focused on designing scalable backend infrastructures and secure application log
 </p>
 
 <br>
-
----
-
-### // GITHUB METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pbryanyanga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
 
 ---
 
