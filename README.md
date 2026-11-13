@@ -6,14 +6,6 @@ Focused on designing scalable backend infrastructures and secure application log
 
 ---
 
-### // FEATURED PROJECT
-
-* 🛠️ **Tools & Equipment Borrowing System with Inventory Menu**
-  * **Core Stack:** PHP, Laravel, MySQL, JavaScript, Tailwind / Bootstrap
-  * **Overview:** A comprehensive digital inventory and asset management platform engineered to streamline institutional equipment tracking, automated transaction logging, and secure user role management.
-
----
-
 ### // LANGUAGES & TOOLS
 
 <br>
