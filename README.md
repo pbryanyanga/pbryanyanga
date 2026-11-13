@@ -24,11 +24,4 @@ Focused on designing scalable backend infrastructures and secure application log
 
 * ✉️ **Email:** pbryanyanga@gmail.com
 * 📍 **Location:** Marikina, Metro Manila
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/pbryanyanga" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</p>
+* 🐙 **GitHub:** [github.com/pbryanyanga](https://github.com/pbryanyanga)
