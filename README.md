@@ -11,8 +11,30 @@ Focused on designing scalable backend infrastructures and secure application log
 <br>
 
 <p align="center">
+  <b>Backend & Core</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,html,css,js,bootstrap,tailwind,git,github,vscode,powershell,linux,bash,postman,vercel,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Databases</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Frontend & Styling</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Development Tools & Environment</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,linux,bash,postman,vercel,figga" />
   </a>
 </p>
 
