@@ -18,9 +18,9 @@ Focused on designing scalable backend infrastructures and secure application log
 </p>
 
 <p align="center">
-  <b>Databases</b><br>
+  <b>Databases & Caching</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" />
   </a>
 </p>
 
@@ -39,9 +39,9 @@ Focused on designing scalable backend infrastructures and secure application log
 </p>
 
 <p align="center">
-  <b>Development Tools & Environment</b><br>
+  <b>Development Tools & Containerization</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,linux,bash,postman,vercel,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,linux,bash,postman,vercel,figma,docker" />
   </a>
 </p>
 
