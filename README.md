@@ -12,7 +12,7 @@ Focused on designing scalable backend infrastructures and secure application log
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,html,css,js,bootstrap,tailwind,git,github,vscode,powershell,linux,bash,postman,vercel,figma" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,html,css,js,bootstrap,tailwind,git,github,vscode,powershell,linux,bash,postman,vercel,figma&perline=8" />
   </a>
 </p>
 
@@ -24,4 +24,11 @@ Focused on designing scalable backend infrastructures and secure application log
 
 * ✉️ **Email:** pbryanyanga@gmail.com
 * 📍 **Location:** Marikina, Metro Manila
-* 🐙 **GitHub:** [github.com/pbryanyanga](https://github.com/pbryanyanga)
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/pbryanyanga" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
