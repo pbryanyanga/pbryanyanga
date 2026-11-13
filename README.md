@@ -12,7 +12,7 @@ Focused on designing scalable backend infrastructures and secure application log
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,vscode,html,css,js,powershell,vercel" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,html,css,js,bootstrap,tailwind,git,github,vscode,powershell,linux,bash,postman,vercel,figma" />
   </a>
 </p>
 
