@@ -32,9 +32,16 @@ Focused on designing scalable backend infrastructures and secure application log
 </p>
 
 <p align="center">
+  <b>Hardware & Embedded Systems</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino" />
+  </a>
+</p>
+
+<p align="center">
   <b>Development Tools & Environment</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,linux,bash,postman,vercel,figga" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,linux,bash,postman,vercel,figma" />
   </a>
 </p>
 
