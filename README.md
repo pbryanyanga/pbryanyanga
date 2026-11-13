@@ -49,6 +49,14 @@ Focused on designing scalable backend infrastructures and secure application log
 
 ---
 
+### // GITHUB METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pbryanyanga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+</p>
+
+---
+
 ### // CONTACT & CHANNELS
 
 * ✉️ **Email:** pbryanyanga@gmail.com
