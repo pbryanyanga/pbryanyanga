@@ -24,7 +24,7 @@ Focused on designing scalable backend infrastructures, secure application logic,
 </p>
 
 <p align="center">
-  <a href="https://codetime.dev/api/widgets/donut.svg?uid=37884&days=30&limit=6&theme=dark"></a>
+  <a href="https://codetime.dev"><img alt="CodeTime Languages" src="https://codetime.dev/api/widgets/donut.svg?uid=37884&days=30&limit=6&theme=dark"></a>
 </p>
 
 ---
