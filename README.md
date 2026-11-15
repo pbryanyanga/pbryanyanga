@@ -1,89 +1,97 @@
-<h3 align="center">
-  <code>// SYSTEM SHELL: pbryanyanga@root ~ </code>
-</h3>
+<p align="center">
+  <code>// SYSTEM SHELL: pbryanyanga@root ~</code>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF66?style=flat-square&logo=terminal&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/ENV-FULLSTACK%20%2F%2F%20SYSTEMS-777BB4?style=flat-square&logo=linux&logoColor=white" alt="Environment" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-2ea44f?style=flat-square" alt="Status Online">
+  <img src="https://img.shields.io/badge/ENV-END_TO_END_%2F%2F_SYSTEMS-blueviolet?style=flat-square" alt="Environment">
 </p>
 
 ---
 
 ### // SYSTEM PROFILE & OBJECTIVES
 
-Versatile developer and Bachelor of Science in Information Technology (BSIT) student at **IETI College of Science and Technology, Marikina Campus**, specializing in backend web architecture, modern development frameworks, relational database management, and robust systems engineering. 
+End-to-end and systems developer and Bachelor of Science in Information Technology (BSIT) student at IETI College of Science and Technology, Marikina Campus, specializing in backend web architecture, modern development frameworks, relational database management, robust systems engineering, and custom hardware solutions.
 
-Focused on designing scalable backend infrastructures and secure application logic to handle complex digital environments, translating requirements into clean, high-performance software solutions.
+Focused on designing scalable backend infrastructures, secure application logic, and clean hardware builds to handle complex environments, translating requirements into clean, high-performance software and technical solutions.
+
+---
+
+### // CODETIME & ACTIVITY
+
+<p align="center">
+  <img src="https://shields.jannchie.com/endpoint?style=flat-square&color=2ea44f&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37884" alt="CodeTime Total">
+</p>
+
+<p align="center">
+  <a href="https://codetime.dev"><img alt="CodeTime Languages" src="https://codetime.dev/api/widgets/donut.svg?uid=37884&days=30&limit=6&theme=dark"></a>
+</p>
 
 ---
 
 ### // TECHNICAL ARSENAL
 
-<br>
-
+<p align="center"><b>Languages & Backend</b></p>
 <p align="center">
-  <b>Languages & Backend</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs,java,c,cpp,cs" alt="Languages" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,php,laravel,nodejs,java,c,cpp,cs" alt="Languages & Backend">
 </p>
 
+<p align="center"><b>AI & Intelligent Systems</b></p>
 <p align="center">
-  <b>AI & Intelligent Systems</b><br>
-  <img src="https://img.shields.io/badge/LLM_API_Integration-0D1117?style=flat-square&logo=openai&logoColor=white" alt="LLM API" />
-  <img src="https://img.shields.io/badge/Prompt_%26_Context_Design-161B22?style=flat-square" alt="Prompt Design" />
-  <img src="https://img.shields.io/badge/AI_Assisted_Development-161B22?style=flat-square" alt="AI-Assisted Dev" />
-  <img src="https://img.shields.io/badge/Ethical_AI_%26_Governance-161B22?style=flat-square" alt="Ethical AI" />
+  <img src="https://img.shields.io/badge/LLM_API_Integration-333333?style=flat-square" alt="LLM API Integration">
+  <img src="https://img.shields.io/badge/Prompt_%26_Context_Design-333333?style=flat-square" alt="Prompt & Context Design">
+  <img src="https://img.shields.io/badge/AI_Assisted_Development-333333?style=flat-square" alt="AI-Assisted Development">
 </p>
 
+<p align="center"><b>Hardware & Embedded Systems & PC Services</b></p>
 <p align="center">
-  <b>Hardware & Embedded Systems</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Hardware Icons" />
-  </a><br>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Microcontrollers-1f6feb?style=flat-square" alt="Microcontrollers" />
-  <img src="https://img.shields.io/badge/Circuits_%26_Breadboarding-238636?style=flat-square" alt="Circuits" />
-  <img src="https://img.shields.io/badge/Firmware_Logic-8957e5?style=flat-square" alt="Firmware" />
+  <img src="https://img.shields.io/badge/Custom_PC_Building_%26_Cable_Management-00599C?style=flat-square" alt="PC Building">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Hardware">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" alt="ESP32">
+  <img src="https://img.shields.io/badge/Microcontrollers-00979D?style=flat-square" alt="Microcontrollers">
+  <img src="https://img.shields.io/badge/Circuits_%26_Breadboarding-4EAA25?style=flat-square" alt="Circuits">
+  <img src="https://img.shields.io/badge/Firmware_Logic-FF6F00?style=flat-square" alt="Firmware">
 </p>
 
+<p align="center"><b>UI/UX & Frontend</b></p>
 <p align="center">
-  <b>UI/UX & Frontend</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,xd" alt="Frontend Icons" />
-  </a><br>
-  <img src="https://img.shields.io/badge/Blade_Template-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,xd" alt="Frontend">
+  <img src="https://img.shields.io/badge/Blade_Template-F05340?style=flat-square" alt="Blade">
 </p>
 
+<p align="center"><b>APIs, DevOps & Security</b></p>
 <p align="center">
-  <b>APIs, DevOps & Security</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,github" alt="DevOps Icons" />
-  </a><br>
-  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/2FA_Auth-238636?style=flat-square" alt="2FA" />
-  <img src="https://img.shields.io/badge/RBAC-1f6feb?style=flat-square" alt="RBAC" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://skillicons.dev/icons?i=postman,docker,github" alt="DevOps">
+  <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square" alt="RESTful APIs">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/2FA_Auth-4CAF50?style=flat-square" alt="2FA Auth">
+  <img src="https://img.shields.io/badge/RBAC-FF5722?style=flat-square" alt="RBAC">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square" alt="Wireshark">
 </p>
 
+<p align="center"><b>Databases & Infrastructure</b></p>
 <p align="center">
-  <b>Databases & Infrastructure</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,vercel" alt="Database Icons" />
-  </a><br>
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
-  <img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white" alt="ngrok" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,xampp" alt="DB & Infra">
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square" alt="DBeaver">
+  <img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square" alt="ngrok">
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel">
 </p>
 
-<br>
+---
+
+### // PROJECTS & SYSTEMS
+
+* **Tools and Equipment Borrowing System with an Inventory Menu** *(Capstone Thesis Project)*
+  * **Domain & Environment:** Full-Stack Web Application (PHP 8.2 / Laravel 12)
+  * **Core Technologies:** PHP, Laravel, MySQL, SQLite, JavaScript, Bootstrap, Git, XAMPP
+  * **Overview:** A comprehensive digital inventory and asset management platform engineered to streamline institutional equipment tracking, automated transaction logging, and secure user role-based access control (RBAC). 
+  * **Evaluation:** System reliability and usability successfully validated and evaluated through empirical data tabulation involving 50 Diploma in Information Technology (DIT) student respondents at IETI College of Science and Technology, Marikina Campus.
 
 ---
 
 ### // CONTACT & CHANNELS
 
 * 🌐 **Portfolio:** [pbryanyanga-it-portfolio.vercel.app](https://pbryanyanga-it-portfolio.vercel.app/html/index.html)
-* ✉️ **Email:** pbryanyanga@gmail.com
-* 📍 **Location:** Marikina, Metro Manila
-* 🐙 **GitHub:** [github.com/pbryanyanga](https://github.com/pbryanyanga)
+* 📧 **Email:** pbryanyanga@gmail.com
+* 📍 **Location:** Marikina, Metro Manila, Philippines
+* 💻 **GitHub:** [github.com/pbryanyanga](https://github.com/pbryanyanga)
