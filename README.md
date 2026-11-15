@@ -79,16 +79,6 @@ Focused on designing scalable backend infrastructures, secure application logic,
 
 ---
 
-### // PROJECTS & SYSTEMS
-
-* **Tools and Equipment Borrowing System with an Inventory Menu** *(Capstone Thesis Project)*
-  * **Domain & Environment:** Full-Stack Web Application (PHP 8.2 / Laravel 12)
-  * **Core Technologies:** PHP, Laravel, MySQL, SQLite, JavaScript, Bootstrap, Git, XAMPP
-  * **Overview:** A comprehensive digital inventory and asset management platform engineered to streamline institutional equipment tracking, automated transaction logging, and secure user role-based access control (RBAC). 
-  * **Evaluation:** System reliability and usability successfully validated and evaluated through empirical data tabulation involving 50 Diploma in Information Technology (DIT) student respondents at IETI College of Science and Technology, Marikina Campus.
-
----
-
 ### // CONTACT & CHANNELS
 
 * 🌐 **Portfolio:** [pbryanyanga-it-portfolio.vercel.app](https://pbryanyanga-it-portfolio.vercel.app/html/index.html)
